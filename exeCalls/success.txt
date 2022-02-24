@@ -1,0 +1,3 @@
+Now in called function, pid: 3031
+Passed args: ./childReplacement Hello Bye
+Called function now ending
